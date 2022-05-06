@@ -1,5 +1,7 @@
 # Generating Map Tiles
 
+Go to [map](index.html)
+
 ## Tile 1 - Modified Basemap
 ![Map Image](tiles/new_basemap/modified_basemap.png)
 
