@@ -1,6 +1,6 @@
 # Generating Map Tiles
 
-Go to [map](index.html)
+Go to [map](https://travisle202.github.io/mapbox/)
 
 ## Tile 1 - Modified Basemap
 ![Map Image](tiles/new_basemap/modified_basemap.png)
